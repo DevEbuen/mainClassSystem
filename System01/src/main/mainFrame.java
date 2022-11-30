@@ -74,7 +74,8 @@ public class mainFrame extends javax.swing.JFrame {
             public void run() {
                 new mainFrame().setVisible(true);
                 
-                int x = 0;
+                int x = 100;
+                String pangitNaEbuen;
             }
         });
     }
