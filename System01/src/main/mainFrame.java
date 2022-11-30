@@ -76,6 +76,7 @@ public class mainFrame extends javax.swing.JFrame {
                 
                 int x = 100;
                 String pangitNaEbuen;
+                String [] arr = {"pang","ngit","ni","Glenn"};
             }
         });
     }
